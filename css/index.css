@@ -174,3 +174,23 @@ footer nav a {
 #ten {
     background-color: dodgerblue;
 }
+.logo {
+    display: flex;
+    flex-direction: row;
+}
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 30%;
+    text-decoration: none;
+}
+.img {
+    height: 50%;
+    width: 55%;
+    display: flex;
+    padding: 5% 0;
+}
+.nav a {
+    text-decoration: none;
+}
