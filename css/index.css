@@ -177,17 +177,22 @@ footer nav a {
 .logo {
     display: flex;
     flex-direction: row;
+    padding: 5% 0 0 0;
+    align-content: flex-end;
 
     
 }
 header nav {
     width: 60%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     
     font-size: 14px;
+    padding: 0 0 0 30%;
+    margin: 0 0 0 5%;
 
 }
+
 
 
 
